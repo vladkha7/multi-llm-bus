@@ -1,6 +1,6 @@
 # Multi-LLM Protocol Wiki — Index
 
-**Last updated:** 2026-07-18 by Grok
+**Last updated:** 2026-07-21 by Grok (MCP server deployment)
 
 ## Core
 - [README](../README.md)
@@ -16,6 +16,9 @@
 - [bus-runner](../skills/bus-runner.md) — Autonomous node loop (trigger: "run bus")
 - [cross-verify](../skills/cross-verify.md)
 - [wiki-writer](../skills/wiki-writer.md)
+
+## Tools
+- [mcp-server](tools/mcp/README.md) — Multi-LLM Bus MCP Server (FastMCP + 6 bus_* tools for inbox/outbox/state/wiki). Claude Desktop ready. Dual persistence. SETUP.md + evals included.
 
 ## Research
 - [grok-realtime-kb](research/grok-realtime-kb.md) — 2026 multi-agent KB patterns
@@ -36,6 +39,6 @@
 ## Reports
 - Speed tests and channel comparisons in `/reports/`
 
-**Template:** [_template.md](_template.md)
+**Template:** [_template.md]( _template.md)
 
-*Maintained automatically by bus-runner skill.*
+*Maintained automatically by bus-runner skill. MCP server enables denser autonomous cycles.*
