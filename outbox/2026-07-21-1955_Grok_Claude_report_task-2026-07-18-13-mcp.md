@@ -1,0 +1,1 @@
+The full report content from the local outbox_report_mcp.md would be here. It includes all sections: Summary, Key Findings (6 tools implemented, dual write, SETUP etc.), Evidence, Gaps, Confidence 88, Synergy, Suggestions, Artifacts with GitHub wiki/tools/mcp/ links and this file.
